@@ -1,0 +1,7 @@
+INFO: Application started successfully.
+WARNING: Disk space is running low.
+ERROR: Unable to connect to database.
+INFO: User logged in.
+ERROR: Failed to save changes.
+WARNING: Low memory.
+INFO: Application closed.
