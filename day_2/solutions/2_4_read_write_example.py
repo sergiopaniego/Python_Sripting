@@ -9,7 +9,7 @@ employee_data = [
 
 # Write the data to a JSON file
 with open("employees.json", "w") as file:
-    json.dump(employee_data, file, indent=4)
+    json.dump(employee_data, file)
 
 print("Initial employee data saved to 'employees.json'")
 
@@ -27,6 +27,6 @@ for employee in employees:
 
 # Step 4: Save the modified data back to the JSON file
 with open("employees.json", "w") as file:
-    json.dump(employees, file, indent=4)
+    json.dump(employees, file)
 
 print("\nModified employee data saved back to 'employees.json'")

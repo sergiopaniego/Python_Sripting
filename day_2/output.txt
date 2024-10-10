@@ -1,15 +1,17 @@
-total 104
--rw-r--r--@ 1 sergiopaniegoblanco  staff    497 Sep 27 14:50 2_1_module_usage_example.py
--rw-r--r--@ 1 sergiopaniegoblanco  staff    283 Sep 27 15:02 2_1_module_usage_example_2.py
--rw-r--r--@ 1 sergiopaniegoblanco  staff     51 Sep 27 14:56 2_2_main.py
--rw-r--r--@ 1 sergiopaniegoblanco  staff     44 Sep 27 14:56 2_2_my_module.py
--rw-r--r--@ 1 sergiopaniegoblanco  staff  15354 Sep 30 14:41 2_3_advance_handling_functions_modules_files.ipynb
-drwxr-xr-x@ 3 sergiopaniegoblanco  staff     96 Sep 27 14:57 [34m__pycache__[m[m
--rw-r--r--@ 1 sergiopaniegoblanco  staff     34 Sep 30 14:41 data.csv
--rw-r--r--@ 1 sergiopaniegoblanco  staff     48 Sep 30 14:41 data.json
--rw-r--r--@ 1 sergiopaniegoblanco  staff    270 Sep 27 15:38 employees.json
--rw-r--r--@ 1 sergiopaniegoblanco  staff     14 Sep 30 14:41 example.txt
--rw-r--r--@ 1 sergiopaniegoblanco  staff    103 Sep 27 16:54 logfile.log
--rw-r--r--@ 1 sergiopaniegoblanco  staff      0 Sep 30 14:41 output.txt
-drwxr-xr-x@ 5 sergiopaniegoblanco  staff    160 Sep 27 15:55 [34mproject_solution[m[m
-drwxr-xr-x@ 8 sergiopaniegoblanco  staff    256 Sep 27 15:48 [34msolutions[m[m
+total 112
+-rw-r--r--@  1 sergiopaniegoblanco  staff    497 Oct  9 10:59 2_1_module_usage_example.py
+-rw-r--r--@  1 sergiopaniegoblanco  staff    283 Sep 27 15:02 2_1_module_usage_example_2.py
+-rw-r--r--@  1 sergiopaniegoblanco  staff     51 Oct  9 11:55 2_2_main.py
+-rw-r--r--@  1 sergiopaniegoblanco  staff  19884 Oct 10 10:09 2_3_advance_handling_functions_modules_files.ipynb
+drwxr-xr-x@  3 sergiopaniegoblanco  staff     96 Sep 27 14:57 [34m__pycache__[m[m
+drwxr-xr-x@  2 sergiopaniegoblanco  staff     64 Oct  9 11:03 [34mbackup[m[m
+-rw-r--r--@  1 sergiopaniegoblanco  staff     34 Oct  9 12:51 data.csv
+-rw-r--r--@  1 sergiopaniegoblanco  staff     48 Oct  9 12:52 data.json
+-rw-r--r--@  1 sergiopaniegoblanco  staff    270 Sep 27 15:38 employees.json
+-rw-r--r--@  1 sergiopaniegoblanco  staff     14 Oct  9 12:46 example.txt
+drwxr-xr-x@  3 sergiopaniegoblanco  staff     96 Oct  9 11:05 [34mexample_dir[m[m
+-rw-r--r--@  1 sergiopaniegoblanco  staff    103 Sep 27 16:54 logfile.log
+-rw-r--r--@  1 sergiopaniegoblanco  staff     44 Sep 27 14:56 my_module.py
+-rw-r--r--@  1 sergiopaniegoblanco  staff      0 Oct 10 10:11 output.txt
+drwxr-xr-x@  5 sergiopaniegoblanco  staff    160 Sep 30 14:52 [34mproject_solution[m[m
+drwxr-xr-x@ 11 sergiopaniegoblanco  staff    352 Oct  9 12:05 [34msolutions[m[m
