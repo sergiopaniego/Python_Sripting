@@ -23,4 +23,4 @@ async def main():
         print("-----")
 
 # Run the main function
-await main()
+asyncio.run(main())

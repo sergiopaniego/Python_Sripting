@@ -19,5 +19,5 @@ def capture_command_output(command):
         print("An error occurred. Error message captured in 'error.log'.")
 
 # Example command (you can change it to any command)
-command = ["ls", "non_existent_directory"]  # This will cause an error
+command = ["ls"]  # This will cause an error
 capture_command_output(command)
